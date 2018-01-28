@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=21:6A:2F:7A:A0:65:FE:D3:E5:13:6A:93:40:6D:8D:44:93:73:9D:79%3Bcom.google.firebase.codelab.friendlychat
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    21:6A:2F:7A:A0:65:FE:D3:E5:13:6A:93:40:6D:8D:44:93:73:9D:79
+
+    SHA-1 certificate fingerprint:
+    21:6A:2F:7A:A0:65:FE:D3:E5:13:6A:93:40:6D:8D:44:93:73:9D:79
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDuW28Yob78qhUqlSEWvK2QxUI1rGg_6SE</string>
+</resources>
