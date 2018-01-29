@@ -58,11 +58,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!--<activity android:name=".BaseActivity">-->
-            <!--<meta-data-->
-                <!--android:name="com.google.android.geo.API_KEY"-->
-                <!--android:value="AIzaSyDCa5WRSMk3CrNSf3y5xbyQTvp1_zwuTtE" />-->
-        <!--</activity>-->
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
