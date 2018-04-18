@@ -1,4 +1,4 @@
-# Party-Animals-Hackathon
+# party-gathering
 A location based social media / chat application
 
 This is a chat application that demonstrates location can be further integrated into our everyday applciations.
